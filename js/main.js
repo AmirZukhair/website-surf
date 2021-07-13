@@ -200,8 +200,6 @@ $(function(){
     new WOW().init();
 
 
-  Notification.requestPermission(function(status) {
-    console.log('Notification permission status:', status);
-});
+  
 
 });
